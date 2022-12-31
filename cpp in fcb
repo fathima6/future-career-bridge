@@ -1,0 +1,53 @@
+/*
+	//Bio stream
+		class:B1,B2,B3
+		Student:B1=40,B2=40,B3=40
+		Subject: Biology,Chemistry,Physics
+
+	//Math stream
+		class:M1,M2,M3,M4,M5
+		Student:M1=40,M2=40,M3=40,M4=40,M5=40
+		Subject: Combined Math,Chemistry,Physics
+
+
+			TOTAL MARKS:
+			CLASS RANK:
+			SCHOOL RANK:
+*/
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+
+
+return 0;
+}
+
+// SUBJECT 
+class subject{
+
+ public:
+    int biology;
+    int com-math;
+    int physics;
+    int chemistry;
+};
+
+//STREAM
+class stream
+{
+  public:
+	string math;
+	string bio;
+};
+
+//CLASS
+//CLASS RANK
+class crank{
+  rank=(s1+s2+s3)/3
+};
+//SCHOOL RANK
+
